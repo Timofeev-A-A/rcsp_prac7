@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.App-block {
+  flex-direction: row;
+}
+
+.App-button {
+  background-color: whitesmoke;
+  border: 2px solid aqua;
+  color: black;
+  height: 36px;
+  width: 80px;
+  margin: 4px 2px;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  transition-duration: 0.4s;
+}
+
+.App-button:hover {
+  background-color: aqua;
+  color: white;
+}

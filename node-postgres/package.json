@@ -1,0 +1,12 @@
+{
+  "name": "node-postgres",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "index.js",
+  "author": "clown",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  }
+}
